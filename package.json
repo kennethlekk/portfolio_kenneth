@@ -4,8 +4,8 @@
   "private": true,
   "homepage": "https://kennethlekk.github.io/portfolio_kenneth",
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "react-scripts build",
     "start": "react-scripts start",
@@ -16,7 +16,8 @@
     "next": "13.1.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-icons": "^4.7.1"
+    "react-icons": "^4.7.1",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
