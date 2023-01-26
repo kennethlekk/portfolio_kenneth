@@ -26,9 +26,7 @@ export default function Home() {
                             <li>
                                 <BsFillBrightnessHighFill onClick={() => setDarkMode(!darkMode)} className='cursor-pointer text-2xl dark:text-white'/>
                             </li>
-                            <li>
-                                <a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8 dark:from-slate-50 dark:to-slate-400 dark:text-black' href='/about'>Experiences</a>
-                            </li>
+                            
                         </ul>
                     </nav>
 
