@@ -55,24 +55,24 @@ export default function Home() {
 						</p>
 					</div>
 					<div className='lg:flex gap-10 '>
-						<div className='text-center shadow-lg p-10 rounded-xl my-10 basis-1/2 dark:bg-white' >
+						<div className='bg-gray-900 text-white text-center shadow-lg p-10 rounded-xl my-10 basis-1/2 dark:bg-white dark:text-gray-800' >
 							<a href='https://github.com/Alvan-Tan/chris.py_cream'><AiFillGithub className='text-5xl mx-auto'/></a>
 							<h3 className='text-lg font-medium pt-8 pb-2'>E-learning Portal Web Application</h3>
 							<p className='py-2'>Modelled database for an e-learning portal for engineers. Developed interactive user interface for the portal using API endpoints with a microservice architecture</p>
 							<h4 className='py-4 text-teal-600'>Tech Stack</h4>
-							<p className='text-gray-800 py-1'>VueJs</p>
-							<p className='text-gray-800 py-1'>Python</p>
-							<p className='text-gray-800 py-1'>Flask</p>
-							<p className='text-gray-800 py-1'>SqlAlchemy</p>
+							<p className='text-white py-1 dark:text-gray-800'>VueJs</p>
+							<p className='text-white py-1 dark:text-gray-800'>Python</p>
+							<p className='text-white py-1 dark:text-gray-800'>Flask</p>
+							<p className='text-white py-1 dark:text-gray-800'>SqlAlchemy</p>
 						</div>
-						<div className='text-center shadow-lg p-10 rounded-xl my-10 basis-1/2 dark:bg-white'>
+						<div className='bg-gray-900 text-white text-center shadow-lg p-10 rounded-xl my-10 basis-1/2 dark:bg-white dark:text-gray-800'>
 							<a href='https://github.com/kennethlekk/portfolio_optimisation'><AiFillGithub className='text-5xl mx-auto'/></a>
 							<h3 className='text-lg font-medium pt-8 pb-2'>Portfolio Optimisation</h3>
 							<p className='py-2'> Finding optimal portfolio weightage from set of randomly picked 30 stocks from the list of top 100 ESG stocks. </p>
 							<h4 className='py-4 text-teal-600'>Tech Stack</h4>
-							<p className='text-gray-800 py-1'>Pandas </p>
-							<p className='text-gray-800 py-1'>Numpy</p>
-							<p className='text-gray-800 py-1'>Pyfolio</p>
+							<p className='text-white py-1 dark:text-gray-800'>Pandas </p>
+							<p className='text-white py-1 dark:text-gray-800'>Numpy</p>
+							<p className='text-white py-1 dark:text-gray-800'>Pyfolio</p>
 						</div>
 					</div>
 				</section>
