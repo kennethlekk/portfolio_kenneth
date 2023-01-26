@@ -34,7 +34,7 @@ export default function Home() {
                         <h2 className='text-5xl py-2 text-teal-600 font-medium md:text-6xl'>Kenneth Lek Qi Yu</h2>
                         <h3 className='text-2xl py-2 md:text-4xl dark:text-white'>Technical Product Consultant</h3>
 						<h4 className='text-xl py2 md:text-3xl dark:text-white'>Moody's Analytics</h4>
-                        <p className='text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-white'>A tech enthuasiast that has multiple interests in different fields. Software engineering, Data engineering & Data Science. Currently still trying to figure out and plan my career path.</p>
+                        <p className='text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-white'>A tech enthuasiast who has multiple interests in different fields. Software engineering, Data engineering & Data Science. Currently still trying to figure out and plan my career path.</p>
                     </div>
                     <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-white'>
                         <a href='https://www.linkedin.com/in/kenneth-lek-qi-yu/'><AiFillLinkedin/></a>
